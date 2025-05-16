@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a Python-based implementation of a simple object-oriented model for a coffee shop. It defines the core entities of a coffee shop, including customers, coffee products, and orders, and establishes the relationships between them. This project serves as a good example of basic object-oriented design principles and Python programming.
+This project is a Python-based implementation of a simple object-oriented model for a coffee shop. It defines entities of a coffee shop, including customers, coffee products, and orders, and establishes the relationships between them. This project serves as an example of basic object-oriented design principles and Python programming.
 
 ## Features
 
@@ -69,8 +69,8 @@ The project uses the following main dependencies:
 
 2.  **Clone the repository:** Clone the project repository to your local machine.
 
-        git clone <repository_url>
-        cd coffee_shop
+        git clone https://github.com/kipDstar/COFFEE_SHOP.git
+        cd COFFEE_SHOP
 
 3.  **Install dependencies:** Use Pipenv to create a virtual environment and install the project's dependencies.
 
