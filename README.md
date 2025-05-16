@@ -32,7 +32,7 @@ This project is a Python-based implementation of a simple object-oriented model 
 
 ## Project Structure
 
-    coffee_shop/
+    COFFEE_SHOP/
     ├── coffee.py
     ├── customer.py
     ├── order.py
@@ -44,6 +44,7 @@ This project is a Python-based implementation of a simple object-oriented model 
     ├── __init__.py
     ├── Pipfile
     └── Pipfile.lock
+    └── README.md
 
 * `coffee.py`: Contains the `Coffee` class definition.
 * `customer.py`: Contains the `Customer` class definition.
