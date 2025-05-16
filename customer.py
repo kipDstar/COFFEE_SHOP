@@ -1,6 +1,4 @@
-from coffee import Coffee
-from order import Order
-from customer import Customer
+
 
 class Customer:
     @staticmethod
@@ -69,3 +67,7 @@ class Customer:
         self.__class__._all_customers.append(self)
         self._name = name
         self._orders = []
+
+
+from coffee import Coffee
+from order import Order
